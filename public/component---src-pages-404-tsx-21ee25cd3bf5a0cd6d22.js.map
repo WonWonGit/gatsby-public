@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-404-tsx-21ee25cd3bf5a0cd6d22.js","mappings":"0IAMA,UAJkB,WACd,OAAOA,EAAAA,cAAAA,MAAAA,KAAAA,QADX,C","sources":["webpack://my-gatsby-site/./src/pages/404.tsx"],"sourcesContent":["import React from \"react\";\n\nconst ErrorPage = () => {\n    return(<div>error</div>)\n}\n\nexport default ErrorPage;"],"names":["React"],"sourceRoot":""}
